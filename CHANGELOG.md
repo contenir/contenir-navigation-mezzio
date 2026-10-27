@@ -4,7 +4,7 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project
 adheres to [Semantic Versioning](https://semver.org/).
 
-## [Unreleased]
+## [0.1.0] - 2026-10-27
 
 ### Added
 
@@ -20,3 +20,5 @@ adheres to [Semantic Versioning](https://semver.org/).
   laminas-cache storage, by handle and live revision. List it in `pagecache.clear.caches` so the
   CMS's cache clear empties it.
 - The `menus()` view helper for laminas-view.
+
+[0.1.0]: https://github.com/contenir/contenir-navigation-mezzio/releases/tag/v0.1.0
