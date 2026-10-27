@@ -25,7 +25,7 @@
         "contenir/contenir-resource-mezzio": "^2.0@RC",
         "contenir/contenir-workflow-mezzio": "^2.2",
         "infection/infection": "^0.35.6",
-        "laminas/laminas-cache": "^3.14",
+        "laminas/laminas-cache": "^3.14.1",
         "laminas/laminas-cache-storage-adapter-filesystem": "^2.5",
         "laminas/laminas-serializer": "^2.18",
         "phpunit/phpunit": "^11.5"
